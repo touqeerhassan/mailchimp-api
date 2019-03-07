@@ -1,0 +1,10 @@
+{
+  "development": {
+      "api_key": "development",
+      "list_id": "13d96a2e21"
+  },
+  "production": {
+    "api_key": "development",
+    "list_id": "13d96a2e21"
+}
+}
